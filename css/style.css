@@ -1,1 +1,17 @@
-/* add CSS class and element and selectors here */
+body {
+      background-color: #6D4D5A;
+      font-size: 100%;
+      color: black;
+      font font-family: Script, Helvicta, san-serif
+}
+
+
+
+
+
+        .amiraexampleclass {
+          
+              font-size:250%;
+}
+
+
